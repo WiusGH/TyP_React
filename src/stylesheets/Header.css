@@ -1,0 +1,31 @@
+.navbar {
+    background-color: purple;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+}
+
+.navbar-links > ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar-links > ul > li > a {
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+    padding: 6px 12px;
+}
+
+.navbar-links > ul > li > a:hover {
+    background-color: pink;
+}
+
+.login  {
+    height: 50px;
+}

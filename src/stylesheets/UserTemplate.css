@@ -1,0 +1,27 @@
+.template-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user-info-container {
+    display: flex;  
+    margin-top: 25px;
+}
+
+.user-type {
+    display: flex;
+    justify-content: center;
+    background-color: purple;
+    border-radius: 20px;
+    padding: 25px;
+    width: 300px;
+}
+
+.reviews-list {
+    background-color: violet;
+    border-radius: 15px;
+    margin: 20px;
+}
+

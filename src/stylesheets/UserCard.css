@@ -1,0 +1,22 @@
+.user-card {
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: violet;
+    padding: 10px;
+    margin: 20px;
+    height: 60vh;
+    width: 25vw;
+}
+
+.user-thumbnail {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.user-logo {
+    height: 50px;
+}
