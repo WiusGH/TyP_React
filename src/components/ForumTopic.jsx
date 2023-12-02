@@ -1,5 +1,6 @@
-import React from "react";
+import React from 'react';
 import '../stylesheets/ForumTopic.css'
+
 
 const ForumTopic = ({ topicTitle, topicContent, topicDate }) => {
   return (
